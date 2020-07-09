@@ -1,8 +1,10 @@
 ### Hi👋, my name is Liu Yang(刘阳), a master degree candidate from China.
-### My research interest is computer vision and digital signal system, 
-### specifically on hardware accelerator and designing system from square one.
+#### My research interest is computer vision and digital signal system, specifically designing system from square one on hardware accelerator.
 
-📪reach me at *liuyang9609@gmail.com*
+#### 📪reach me: 
+#### Email:*liuyang9609@gmail.com*
+#### Zhihu:*https://www.zhihu.com/people/LiuYangon*
+
 <!--
 **liuyang9609/liuyang9609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
