@@ -1,5 +1,6 @@
 ### Hi👋, my name is Liu Yang(刘阳), a master degree candidate from China.
-### My research interest is computer vision and digital signal system, specifically on hardware accelerator and designing system from square one.
+### My research interest is computer vision and digital signal system, 
+### specifically on hardware accelerator and designing system from square one.
 
 📪reach me at *liuyang9609@gmail.com*
 <!--
