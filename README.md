@@ -2,7 +2,7 @@
 #### My research interest is computer vision and digital signal system, specifically designing system from square one on hardware accelerator.
 
 #### 📪reach me: 
-#### E-mail👉 *liuyang9609@gmail.com* *ly_0913@foxmail.com*
+#### E-mail👉 *liuyang9609@gmail.com*
 #### Zhihu 👉 *https://www.zhihu.com/people/LiuYangon*
 #### Skype 👉 *ly_0913@foxmail.com*
 
