@@ -1,4 +1,4 @@
-### Hi👋, my name is Liu Yang(刘阳), a master degree candidate from China🐼.
+### Hi👋, I'm Liu Yang(刘阳), a master degree candidate from China🐼.
 #### My research interest is computer vision and digital signal system, specifically designing system from square one on hardware accelerator, e.g. FPGA.
 
 #### 📪reach me: 
