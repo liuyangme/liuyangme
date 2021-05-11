@@ -4,7 +4,6 @@
 #### 📪reach me: 
 #### E-mail👉 *liuyang9609@gmail.com*
 #### Zhihu 👉 *https://www.zhihu.com/people/LiuYangon*
-#### Skype 👉 *ly_0913@foxmail.com*
 
 
 <!--
