@@ -1,9 +1,8 @@
-### Hi👋, I'm Liu Yang(刘阳), a master degree candidate from China🐼.
+### Hi👋, I'm Liu Yang(刘阳), a PhD candidate from China🐼.
 #### My research interest is computer vision and digital image processing, specifically designing system from square one on hardware accelerator, e.g. FPGA.
 
 #### 📪reach me: 
 #### E-mail👉 *liuyang9609@gmail.com*
-#### Zhihu 👉 *https://www.zhihu.com/people/LiuYangon*
 
 
 <!--
