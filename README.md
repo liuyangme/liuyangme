@@ -1,8 +1,8 @@
-### Hi👋, I'm Liu Yang(刘阳), a PhD candidate from China🐼.
-#### 🌱My research interest is computer vision and state estimation for robots, specifically designing system from square one on hardware accelerator, e.g. FPGA and SLAM.
+### Hi👋, I'm Liu Yang(刘阳), a EE PhD candidate from China🐼.
+#### 🌱My research interest is computer vision and state estimation for robots.
 
 #### 📪reach me: 
-#### E-mail👉 *liuyang@mails.cust.edu.cn*
+#### E-mail👉 *liuy2529@mail2.sysu.edu.cn*
 
 
 <!--
