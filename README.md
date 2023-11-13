@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Liu Yang(刘阳), an EE (Electronic Engineering) PhD candidate from China 🐼.
-#### 🧐 My research interest is computer vision 🏁, especially human pose estimation and mesh reconstruction.
-#### 🌱 In addition, I am interested in infrared small target detection and FPGA real-time image processing system.
+ 🧐 My research interest is computer vision 🏁, especially human pose estimation and mesh reconstruction.
+ 🌱 In addition, I am interested in infrared small target detection and FPGA real-time image processing system.
 
-#### 📪reach me: 
-#### E-mail 👉 *liuy2529@mail2.sysu.edu.cn*
+ 📪reach me: 
+ E-mail 👉 *liuy2529@mail2.sysu.edu.cn*
 
 
 <!--
