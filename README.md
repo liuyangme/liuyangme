@@ -2,9 +2,11 @@
 
 - 🌱 **My research interests**:
   * Real-time image processing on FPGA & MPSoC
-  * Infrared small target detection
   * 3D human pose estimation
   * Human mesh recovery
+  * Stereo matching
+  * Infrared small target detection
+
 
 - 📫 **Reach me**:
   * E-mail 👉 *liuy2529@mail2.sysu.edu.cn*
