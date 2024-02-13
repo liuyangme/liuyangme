@@ -1,10 +1,10 @@
 ### Hi 👋, I'm Liu Yang(刘阳), an EE (Electronic Engineering) PhD candidate from China 🐼.
 
 - 🌱 **My research interests**:
-  * 3D human pose estimation
-  * Human mesh recovery
   * Real-time image processing on FPGA & MPSoC
   * Infrared small target detection
+  * 3D human pose estimation
+  * Human mesh recovery
 
 - 📫 **Reach me**:
   * E-mail 👉 *liuy2529@mail2.sysu.edu.cn*
