@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Liu Yang(刘阳), an EE (Electronic Engineering) PhD candidate from China 🐼.
 
-- 🌱 **My research interests**:
+- 💬 **My research interests**:
   * Real-time image processing on FPGA & MPSoC
   * 3D human pose estimation
   * Human mesh recovery
