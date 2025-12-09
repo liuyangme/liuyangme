@@ -12,7 +12,7 @@
   * E-mail 👉 *liuy2529@mail2.sysu.edu.cn*
 
 - :video_game: **Play with me**: 
-  * [Steam]("https://steamcommunity.com/profiles/76561199031224216/")*
+  * [Steam](https://steamcommunity.com/profiles/76561199031224216/) *
 
 <!--
 **liuyang9609/liuyang9609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
