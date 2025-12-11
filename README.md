@@ -1,4 +1,4 @@
-### Hi 👋, I'm Liu Yang(刘阳), an EE (Electronic Engineering) PhD candidate from China 🐼.
+### Hi 👋, I'm Liu Yang(刘 阳), an EE (Electronic Engineering) PhD candidate from China 🐼.
 
 - 💬 **My research interests**:
   * Real-time image processing on FPGA & MPSoC
