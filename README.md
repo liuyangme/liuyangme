@@ -11,7 +11,7 @@
 - 📫 **Reach me**:
   * E-mail 👉 *liuy2529@mail2.sysu.edu.cn*
 
-- :video_game: **Play with me**: 
+- :video_game: **Play Together**: 
   * [Steam](https://steamcommunity.com/profiles/76561199031224216/)
 
 <!--
