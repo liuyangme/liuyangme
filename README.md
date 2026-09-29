@@ -1,4 +1,4 @@
-### Hi 👋, I'm Liu Yang(刘 阳), an ECE (Electrical and Computer Engineering) PhD candidate from China 🐼.
+### Hi 👋, I'm Liu Yang (刘阳), a Research Fellow at Nanyang Technological University (NTU) in Singapore and received my PhD from Sun Yat-sen University (Guangdong) 🐼.
 
 - 💬 **My research interests**:
   * Real-time image processing on FPGA & MPSoC
@@ -9,7 +9,7 @@
 
 
 - 📫 **Reach me**:
-  * E-mail 👉 *liuy2529@mail2.sysu.edu.cn*
+  * E-mail 👉 *yg.liu@ntu.edu.sg*
 
 
 <!--
