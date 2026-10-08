@@ -1,11 +1,11 @@
 ### Hi 👋, I'm Liu Yang (刘阳), a Research Fellow at Nanyang Technological University (NTU) in Singapore and received my PhD from Sun Yat-sen University (Guangdong) 🐼.
 
 - 💬 **My research interests**:
+  * Human-centric computer vision (e.g. 3D human pose estimation, Human mesh recovery)
+  * 3D computer vision
   * Real-time image processing on FPGA & MPSoC
-  * 3D human pose estimation
-  * Human mesh recovery
-  * Stereo matching
   * Infrared small target detection
+  * Stereo matching
 
 
 - 📫 **Reach me**:
